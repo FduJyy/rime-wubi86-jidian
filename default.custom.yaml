@@ -22,9 +22,9 @@ patch:
   switcher:
     hotkeys:        # 弹出菜单的快捷键
       - "Control+0"
-      - "Shift+Control+0"
+      - "F4"
     abbreviate_options: true
-    caption: "【 输入法设置 】"
+    caption: ""
     option_list_separator: "｜"
 
   #-----------------------------------------------
